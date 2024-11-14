@@ -1,0 +1,29 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+#button_valider{
+    background-color: whitesmoke;
+    font-family: monospace;
+    font-size: 5mm;
+    
+}
+
+aside{
+    float: left;
+    background-color: gray;
+}
+
+/* body{
+    
+} */
+
+#joueurs_list {
+    gap: 50px;
+    
+}
+
+
+
